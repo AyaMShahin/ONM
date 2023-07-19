@@ -1203,7 +1203,7 @@ FOUNDER SECTION AREA
   width: 100%;
   height: auto;
   min-height: 100vh;
-  /* padding: 50px 20px; */
+  padding: 50px 20px;
   padding-top: 85px;
   display: flex;
   /* background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%); */
